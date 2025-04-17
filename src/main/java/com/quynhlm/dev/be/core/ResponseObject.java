@@ -1,4 +1,4 @@
-package com.quynhlm.dev.base.core;
+package com.quynhlm.dev.be.core;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Getter;

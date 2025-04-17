@@ -1,4 +1,4 @@
-package com.quynhlm.dev.base.core.exception;
+package com.quynhlm.dev.be.core.exception;
 
 import com.octl2.api.core.AppError;
 import com.octl2.api.core.ResponseObject;

@@ -1,4 +1,4 @@
-package com.quynhlm.dev.base;
+package com.quynhlm.dev.be;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

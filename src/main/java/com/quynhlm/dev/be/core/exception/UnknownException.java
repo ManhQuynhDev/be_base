@@ -1,4 +1,4 @@
-package com.quynhlm.dev.base.core.exception;
+package com.quynhlm.dev.be.core.exception;
 
 public class UnknownException extends RuntimeException {
     public UnknownException(String message) {

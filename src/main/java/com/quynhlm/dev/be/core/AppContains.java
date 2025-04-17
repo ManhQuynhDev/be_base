@@ -1,4 +1,4 @@
-package com.quynhlm.dev.base.core;
+package com.quynhlm.dev.be.core;
 
 public class AppContains {
     public static class UserAccountRegex {

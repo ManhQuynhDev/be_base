@@ -1,4 +1,4 @@
-package com.quynhlm.dev.base.core.validation;
+package com.quynhlm.dev.be.core.validation;
 
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;

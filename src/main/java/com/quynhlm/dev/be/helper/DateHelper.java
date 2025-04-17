@@ -1,4 +1,4 @@
-package com.quynhlm.dev.base.helper;
+package com.quynhlm.dev.be.helper;
 
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;

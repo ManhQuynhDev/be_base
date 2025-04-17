@@ -1,4 +1,4 @@
-package com.quynhlm.dev.base.helper;
+package com.quynhlm.dev.be.helper;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.core.JsonProcessingException;

@@ -1,7 +1,7 @@
 package com.quynhlm.dev.be.core.exception;
 
-import com.octl2.api.core.AppError;
-import com.octl2.api.core.ResponseObject;
+import com.quynhlm.dev.be.core.AppError;
+import com.quynhlm.dev.be.core.ResponseObject;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
